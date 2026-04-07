@@ -1,0 +1,22 @@
+# Core ML
+torch==2.5.0
+numpy==1.26.4
+einops==0.8.0
+jaxtyping==0.2.34
+
+# Transformers / mechanistic interpretability
+transformers==4.56.1
+transformer_lens==2.7.0
+datasets==3.0.1
+bertviz==1.4.1
+circuitsvis @ git+https://github.com/callummcdougall/CircuitsVis.git#subdirectory=python
+
+# Data & visualization
+matplotlib==3.9.2
+pandas==2.2.3
+
+# Utilities
+ipywidgets==8.1.5
+tqdm==4.66.5
+rich==13.9.2
+wandb==0.25.1
