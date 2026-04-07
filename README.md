@@ -1,6 +1,9 @@
 # NLP Transformers Labs
 
-Notebooks for the NLP Transformers course covering transformer basics, building transformers from scratch, and using pretrained models.
+This repo containts the tutorial notebooks for the NLP course as part of the Master AI at the Vu. These notebooks cover:
+- Lab 1 Transformer basics
+- Lab 2 Building transformers from scratch
+- Lab 3 Using pretrained models
 
 ## Setup
 
