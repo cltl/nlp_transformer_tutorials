@@ -5,6 +5,10 @@ This repo containts the tutorial notebooks for the NLP course as part of the Mas
 - Lab 2 Building transformers from scratch
 - Lab 3 Using pretrained models
 
+
+You can also view the notebooks on the website, and easily open them in colab:
+- **Website:** [cltl.github.io/vunlp_tutorials](https://cltl.github.io/vunlp_tutorials)
+
 ## Setup
 
 Create a conda environment and install dependencies:
